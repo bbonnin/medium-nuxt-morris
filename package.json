@@ -1,0 +1,23 @@
+{
+  "name": "world-bank-data",
+  "version": "1.0.0",
+  "description": "A wonderful app with Nuxt and Morris",
+  "author": "Bruno",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.4.0",
+    "vue-lodash": "^2.0.2",
+    "vue-morris": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
